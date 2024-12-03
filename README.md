@@ -1,3 +1,3 @@
 # Stroke-detection
-Name : Aman Joshi
+Name : Aman Joshi,
 Graphic Era Hill University
